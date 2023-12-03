@@ -46,7 +46,7 @@
     width: 40px;
     background-size: cover;
     background-position: center center;
-    background-image: url("/food/images/call.svg");
+    background-image: url(./images/call.svg);
 }
 .owner-tag {
     justify-content: center;
@@ -114,7 +114,7 @@
 .main-logo {
     height: 40px;
     width: 40px;
-    background-image: url(/food/images/main-logo.svg);
+    background-image: url(./images/main-logo.svg);
     background-size: cover;
     background-position: center center;
 }
@@ -182,7 +182,7 @@
 }
 .imgbox {
     margin: 45px 150px 55px;
-    background-image: url(/food/images/logo.jpg);
+    background-image: url(./images/logo.jpg);
     background-size: 100px 100px 100px;
     background-position: center center;
     align-items: center;
@@ -266,7 +266,7 @@
 .loca-box {
     height: 40px;
     width: 40px;
-    background-image: url(/food/images/location.svg);
+    background-image: url(./images/location.svg);
     background-size: cover;
     background-position: center center;
 }
