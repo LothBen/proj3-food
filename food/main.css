@@ -112,7 +112,7 @@
 .main-logo {
     height: 40px;
     width: 40px;
-    background-image: url(/food/images/main-logo.svg));
+    background-image: url(/food/images/main-logo.svg);
     background-size: cover;
     background-position: center center;
 }
@@ -259,7 +259,7 @@
 .loca-box {
     height: 40px;
     width: 40px;
-    background-image: url(/food/images/location1.svg);
+    background-image: url(/food/images/location.svg);
     background-size: cover;
     background-position: center center;
 }
