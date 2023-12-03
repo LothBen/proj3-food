@@ -135,3 +135,98 @@
     border-color: black;
     background-color: rgba(218, 165, 32, 0.315);
 }
+
+
+.sect2 {
+    margin: -8px;
+}
+.sectM2 {
+    margin: 0px 150px 20px;
+}
+.mid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mid-contents {
+    margin-top: 37px;
+}
+.mid-items1 {
+    font-family:cursive;
+    font-size: 33px;
+    padding-bottom: 0px;
+    margin-bottom: -1px;
+}
+.mid-items2 {
+    letter-spacing: 3px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    color: goldenrod;
+    font-weight: lighter;
+    padding-bottom: 0px;
+    margin-bottom: -1px;
+}    
+.mid-items3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+
+}
+.imgcontain {
+    margin: 25px -105px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imgbox {
+    margin: 45px 150px 55px;
+    background-image: url(/images/logo.jpg);
+    background-size: 100px 100px 100px;
+    background-position: center center;
+    align-items: center;
+    width: 555px;
+    height: 300px;
+    padding-top: 10px;
+}
+.buttons {
+    display: flex;
+    margin-top: 25px;
+    gap: 15px;
+}
+.order-button {
+    border-top-left-radius: 60px;
+    border-bottom-left-radius: 60px;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background-color: rgba(255, 186, 186, 0.548);
+}
+.order-button:hover {
+    background-color: white;
+    border-color: blue;
+    border-top-right-radius: 60px;
+    border-bottom-right-radius: 60px ;
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+}
+.view-button {
+    border-top-right-radius: 60px;
+    border-bottom-right-radius: 60px;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background-color: rgba(152, 152, 250, 0.479);
+}
+.view-button:hover {
+    border-color: red;
+    background-color: white;
+    border-bottom-left-radius: 60px;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+}
