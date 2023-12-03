@@ -1,0 +1,92 @@
+.head0 {
+    margin: -8px;
+    background-color: rgb(240, 100, 45);
+}
+.sect0 {
+    margin: 8px 150px 0px;
+    padding-top: 0px;
+}
+.toptag {
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    gap: 295px;
+}
+.contacts {
+    margin-top: 14px;
+    gap: 0px;
+    margin-left: 10px;
+    justify-items: left;
+}
+.sp {
+    color: white;
+    font-weight: 800;
+    font-size: 12px;
+    margin-bottom: 5px;
+    letter-spacing: 3px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.left-info {
+    margin-top: -34px;
+    display: flex;
+    gap: 0px;
+}
+.c-l {
+    padding-left: 0px;
+    list-style: none;
+}
+.call-logo {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Clogo {
+    height: 40px;
+    width: 40px;
+    background-size: cover;
+    background-position: center center;
+    background-image: url("/images/call.svg");
+}
+.owner-tag {
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.box-items1 {
+    padding-bottom: 0px;
+    align-items: center;
+}
+.box-items2 {
+    padding-bottom: 0px;
+    align-items: center;
+}
+.box-items3 {
+    padding-bottom: 0px;
+    align-items: center;
+}
+.tag-box {
+    align-items: center;
+    padding-bottom: 10px;
+}
+.ul-bi {
+    list-style: none;
+    text-align: center;
+}
+.box-items {
+    padding-bottom: 0px;
+    align-items: center;
+}
+.box-items1 {
+    font-size: 11px;
+}
+.box-items2 {
+    font-weight: bold;
+    letter-spacing: 5px;
+    font-size: 11px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.box-items3 {
+    font-size: 10px;
+    font-weight: bold;
+}
