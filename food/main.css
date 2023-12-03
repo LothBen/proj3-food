@@ -230,3 +230,50 @@
     border-bottom-right-radius: 0px;
     border-top-right-radius: 0px;
 }
+
+
+.head2 {
+    margin: -8px;
+    background-color: #e5e7eb;
+}
+.sect3 {
+    margin: 25px 150px 12px;
+}
+.bottom-info {
+    margin-bottom: -17px;
+    display: flex;
+    gap: 500px;
+}
+
+.bottom-right-info {
+    display: flex;
+    text-align: left;
+    margin-left: 734px;
+    
+}
+.location-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loca-box {
+    height: 40px;
+    width: 40px;
+    background-image: url(/images/location1.svg);
+    background-size: cover;
+    background-position: center center;
+}
+.bottom-list {
+    margin-top: 14px;
+    margin-left: 0px;
+}
+.bll {
+    list-style: none;
+}
+.sp2 {
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
